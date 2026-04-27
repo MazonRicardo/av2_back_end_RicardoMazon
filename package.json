@@ -1,15 +1,20 @@
 {
   "name": "av2_back_end_ricardomazon",
   "version": "1.0.0",
+  "description": "API REST de filmes, usuários e favoritos (Node.js + Express)",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["node", "express", "api"],
+  "author": "Seu Nome",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
   }
 }
+
