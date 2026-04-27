@@ -8,7 +8,7 @@
     "dev": "nodemon app.js"
   },
   "keywords": ["node", "express", "api"],
-  "author": "Seu Nome",
+  "author": "Ricardo Mazon",
   "license": "ISC",
   "dependencies": {
     "express": "^5.2.1"
