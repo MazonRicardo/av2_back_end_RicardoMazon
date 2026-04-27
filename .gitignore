@@ -1,0 +1,26 @@
+# Pasta de dependências
+node_modules/
+
+# Arquivos de log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de ambiente (senhas, configs)
+.env
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Build / dist (se usar futuramente)
+dist/
+build/
+
+# Arquivos temporários
+*.tmp
+*.temp
+
